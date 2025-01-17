@@ -1,2 +1,3 @@
-## Starix Site
-Starix Site, built using HTML and CSS.
+## mah shite
+My shitty ass site, built using HTML and CSS.
+Layout made by https://github.com/axeltechtips
