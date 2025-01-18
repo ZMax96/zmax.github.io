@@ -5,6 +5,9 @@ body {
   margin: 0;
   padding: 0;
   background-image: url(4k-black-hole-blue-event-horizon-59jd29jf5a68v6jt-1072800992.jpg);
+  background-size:contain;
+  background-position: center;
+  backdrop-filter: blur(1px);
   background-color: #33333300;
   color: #eee;
   line-height: 1.6;
@@ -21,12 +24,13 @@ body {
 
 .navbar {
   background-color: #00000063;
+  backdrop-filter: blur(3px);
   overflow: hidden;
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 14px 20px;
-  height: 50px;
+  height: 30px;
 }
 
 .navbar a {
@@ -34,7 +38,7 @@ body {
   text-align: center;
   padding: 14px 20px;
   text-decoration: none;
-  border-radius: 10px;
+  border-radius: 20px;
 }
 
 .navbar a:hover {
@@ -64,11 +68,13 @@ body {
 
 footer {
   background-color: #00000050;
+  backdrop-filter: blur(3px);
   padding: 20px 0;
   text-align: center;
   color: #ccc;
   margin-top: auto;
   width: 100%;
+  height: 40px;
 }
 
 footer a {
@@ -101,7 +107,7 @@ footer a:hover {
 .uni-button {
   display: inline-block;
   padding: 10px 20px; 
-  background-color: #4c82af;
+  background-color: #00335e5e;
   color: #fff;
   text-decoration: none;
   border-radius: 10px;
