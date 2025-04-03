@@ -107,7 +107,7 @@ footer a:hover {
 .uni-button {
   display: inline-block;
   padding: 10px 20px; 
-  background-color: #00335e5e;
+  background-color: #5a0b7296;
   color: #fff;
   text-decoration: none;
   border-radius: 10px;
@@ -115,7 +115,7 @@ footer a:hover {
 }
 
 .uni-button:hover {
-  background-color: #38648e;
+  background-color: #5a0b7296;
 }
 
 /* img on index.html */
